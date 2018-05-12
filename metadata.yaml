@@ -1,0 +1,36 @@
+_repo: Recollections-of-the-War-of-1812_44281
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Colquhoun, A. H. U. (Arthur Hugh Urquhart)
+    alias: Colquhoun, Arthur Hugh Urquhart
+    birthdate: 1861
+    deathdate: 1936
+    gutenberg_agent_id: '34279'
+    url: http://www.gutenberg.org/2009/agents/34279
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dunlop, William
+    alias: Backwoodsman
+    birthdate: 1792
+    deathdate: 1848
+    gutenberg_agent_id: '42672'
+    url: http://www.gutenberg.org/2009/agents/42672
+description: ''
+gutenberg_issued: '2013-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44281'
+  lccn: 09019214
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'United States -- History -- War of 1812 -- Personal narratives'
+title: Recollections of the War of 1812
+url: http://www.gutenberg.org/ebooks/44281
